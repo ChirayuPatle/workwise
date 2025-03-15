@@ -1,7 +1,7 @@
 import React from "react";
 
 function Header() {
-  return <div>This is Header component</div>;
+  return <div className="text-xl border-2">This is Header component</div>;
 }
 
 export default Header;
